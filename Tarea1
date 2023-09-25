@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación</title>
+    <link rel="stylesheet" href="css/Tarea1.css">
+</head>
+<body>
+    <div id="prs">
+        <p>Hola soy <strong>alabgar176</strong>, alumno de 1 DAW procedente de <em>Sanlucar la Mayor</em></p>
+    </div>
+    
+    <br>
+    <br>
+
+    <div id="curso">
+        <p>Elegí entrar en este grado porque siempre me llamaba la atención la <ins>informática</ins> y el año pasado dando programación me gustó aún más</p>
+        <p>Sobre este curso espero aprender con profundidad el ámbito de la programación</p>
+        <p>Durante mi etapa en el bachillerato aprendi un poco de <em>Html</em>, <em>Css</em> y <em>Javascript</em></p>
+    </div>
+    
+    <br>
+    <br>
+
+    <div id="otros">
+        <p>Aparte de la informatica otros de mis hobbies favoritos son salir por las tardes a jugar al fútbol o disfrutar jugando a juegos con mis amigos</p>
+    </div>
+    
+    <br>
+    <br>
+
+    <div id="futuro">
+        <p>En un futuro, dentro de 5 años, me veo, <ins>si todo va bien</ins>, trabajando en una empresa desarrollando aplicaciones</p>
+    </div>
+
+    <footer id="pie">
+        <p>Hecho por Alabgar176</p>
+    </footer>
+</body>
+</html>
+
+body{
+    background-color: lightslategray;
+}
+
+#prs{
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+#curso{
+    background-color: lightpink;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+#otros{
+    background-color: lightskyblue;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+#futuro{
+    background-color: lightgreen;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+#pie{
+    float: right;
+    background-color: beige;
+    padding-top: -5px;
+    padding-bottom: -5px;
+    margin-top: 400px;
+}
