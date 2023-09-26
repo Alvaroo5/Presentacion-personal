@@ -1,0 +1,51 @@
+body{
+    background-color: lightslategray;
+}
+
+#prs{
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+#curso{
+    background-color: lightpink;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+#otros{
+    background-color: lightskyblue;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+#futuro{
+    background-color: lightgreen;
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+#pie{
+    float: right;
+    background-color: beige;
+    padding-top: -5px;
+    padding-bottom: -5px;
+    margin-top: 400px;
+}
